@@ -8,7 +8,7 @@ Funktioniert anhand einer name.txt die den Namensformat angibt, im Namen der zu 
 
 ## Serien Renamer V2
 
-Diese Version benutzt die Orderstruktur der Files um die Dateien zu benenen.
+Diese Version benutzt die Ordnerstruktur der Files um die Dateien zu benennen.
 
 Jede File muss diese Orderstruktur besitzen
 
